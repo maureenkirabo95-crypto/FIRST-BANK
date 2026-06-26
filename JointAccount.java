@@ -2,7 +2,7 @@ package vu.firstbankuganda;
 
 public class JointAccount extends Account {
 
-    // Joint account requires a second NIN
+    // Joint account requires a second NIN.
     private String secondNationalID;
 
     // Constructor
