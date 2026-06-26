@@ -31,7 +31,7 @@ public class BankAccountForm extends JFrame {
     private JLabel lblErrPhone, lblErrPIN, lblErrConfirmPIN;
     private JLabel lblErrDOB, lblErrDeposit, lblErrSecondNIN;
     
-// Constructor - sets up the form window
+
     public BankAccountForm() {
         setTitle("First Bank Uganda - New Account Opening Form");
         setSize(600, 800);
